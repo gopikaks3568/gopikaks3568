@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gopika K.S (aka gops😉)
-- 👀 I’m interested in Android dev,web dev,game dev,photo and video ediitng
-- 🌱 I’m currently learning Computer Science Engineering @model engineering college
+- 👀 I’m interested in Android dev,web and game dev,photo and video ediitng.
+- 🌱 A keen learner
 - ✨ I'm currently learning adobe photoshop and Android dev
 - 📫 How to reach me discord Alexiajoe#4248
 
