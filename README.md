@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science in python <br>👯 I’m looking to collaborate on UI/UX projects<br>🤝 I’m looking for help with Web development <br>🌱 I’m currently learning Java development <br>⚡ Fun fact-> I love to sleep and think
+👯 I’m looking to collaborate on UI/UX projects<br>🤝 I’m looking for help with Web development <br>🌱 I’m currently learning Java development <br>⚡ Fun fact-> I love to sleep and think
 
 
 ## 🌐 Socials:
