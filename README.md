@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JS and Java <br>👯 I’m looking to collaborate on front-end project <br>🌱 I’m currently learning Java development, Full Stack Web Development<br>💬 Ask me about  python <br>⚡ Fun fact  I love to sleep and think 
+🔭 I’m currently mastering the art of discipline <br>👯 I’m looking to collaborate on front-end project <br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about  python <br>⚡ Fun fact  I love to sleep and think 
 
 
 ## 🌐 Socials:
