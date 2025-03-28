@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering art of discipline<br>🌱 I’m currently learning Full-stack development<br>💬 Ask me about python <br>⚡ Fun fact - I love sleep and think :)
+🔭 I’m currently working on mastering art of discipline<br>🌱 I’m currently learning Full-stack development<br>💬 Ask me about UI/UX,python <br>⚡ Fun fact - I love sleep and think :)
 
 
 ## 🌐 Socials:
