@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python automation project 🐍<br>👯 I’m looking to collaborate on UI/UX designing 🎨<br>🌱 I’m currently learning Full Stack development and mastering discipline<br>💬 Ask me about Python 🐍and Space 🚀🌌<br>⚡ Fun fact I love to sleep and think 😴💭
+🔭 I’m currently working on web development <br>👯 I’m looking to collaborate on UI/UX designing 🎨<br>🌱 I’m currently learning Full Stack development and mastering discipline<br>💬 Ask me about Python 🐍and Space 🚀🌌<br>⚡ Fun fact I love to sleep and think 😴💭
 
 
 ## 🌐 Socials:
