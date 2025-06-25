@@ -1,4 +1,4 @@
-<img align="right" alt="coding cat" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
+<img  alt="coding cat" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
 
 <h1 align="center">Hi 👋, I'm Gopika K S</h1>
 <h3 align="center">A passionate Frontend Developer & UI/UX Designer</h3>
