@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align = "right" alt="coding" width="400" src= "https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" >
 <h1 align="center">Hi 👋, I'm Gopika K S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
