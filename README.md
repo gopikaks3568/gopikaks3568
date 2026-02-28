@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering discipline 🧘‍♀️<br>👯 I’m looking to collaborate on UI/UX designing🎨<br>🤝 I’m looking for help with full stack development projects 👩‍💻<br>🌱 I’m currently Java and SpringBoot <br>💬 Ask me about python 🐍, space🚀🌌<br>⚡ Fun fact I love to sleep and think 😴💭
+🔭 I’m currently exploring new technologies...<br>👯 I’m looking to collaborate on UI/UX designing🎨<br>🤝 I’m looking for help with full stack development projects 👩‍💻<br>🌱 I’m currently learning Java and SpringBoot <br>⚡ Fun fact I love to sleep and think 😴💭
 
 
 ## 🌐 Socials:
