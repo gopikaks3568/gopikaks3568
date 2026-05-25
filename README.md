@@ -18,7 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=gopikaks3568&color=blue)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
