@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python Full stack 🐍<br>👯 I’m looking to collaborate on UI/UX projects 🎨<br>🤝 I’m looking for help with  Python Full stack 🐍<br>🌱 I’m currently learning Turtle graphics 🐢<br>⚡ Fun fact I love to sleep and think😪💭
+🔭 I’m currently working on Python Full stack 🐍<br>👯 I’m looking to collaborate on UI/UX projects 🎨<br>🤝 I’m looking for help with  Python Full stack 🐍<br>🌱 I’m currently learning Pandas 🐼<br>⚡ Fun fact I love to sleep and think😪💭
 
 
 ## 🌐 Socials:
